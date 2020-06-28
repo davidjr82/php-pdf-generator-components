@@ -1,0 +1,8 @@
+/node_modules
+/vendor
+/.code_coverage
+/.code_metrics
+/.dev_resources
+/.vscode
+npm-debug.log
+yarn-error.log
