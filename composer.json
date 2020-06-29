@@ -1,6 +1,6 @@
 {
     "name": "davidjr82/php-pdf-generator-components",
-    "description": "Suite of PHP components to generate .tex files",
+    "description": "Suite of PHP components to generate source files for davidjr82/php-pdf-generator package",
     "license": "MIT",
     "authors": [
         {
